@@ -3,18 +3,6 @@
 **Custom version for RaspberryPi**
 This is a Library for BMP388, the function is to read temperature and pressure.
 
-## Table of Contents
-
-* [Summary](#summary)
-* [Methods](#methods)
-* [Compatibility](#compatibility)
-* [History](#history)
-* [Credits](#credits)
-
-
-<snippet>
-<content>
-
 ## Summary
 * BMP388 can read temperature and pressure.
 * The library supports the SPI/I2C communication.
